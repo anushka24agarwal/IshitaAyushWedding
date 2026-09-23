@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ishita &amp; Ayush</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Great+Vibes&family=Nunito:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="page-bloom" aria-hidden="true"></div>
+
+    <header class="top-nav">
+      <a class="nav-mark" href="#top">I &amp; A</a>
+      <nav>
+        <a href="#highlights">Highlights</a>
+        <a href="#people">People</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="top">
+        <div class="hero-wash"></div>
+        <div class="hero-frame">
+          <p class="hero-sub">March 12, 2026</p>
+          <h1>
+            <span class="name">Ishita</span>
+            <span class="name">Ayush</span>
+          </h1>
+          <div class="hero-rule" aria-hidden="true">
+            <span></span>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M12 21s-6.2-4.35-8.6-8.1C1.3 9.7 2.4 6 5.6 5.2c1.8-.45 3.5.4 4.4 1.9.9-1.5 2.6-2.35 4.4-1.9 3.2.8 4.3 4.5 2.2 7.7C18.2 16.65 12 21 12 21z"
+              />
+            </svg>
+            <span></span>
+          </div>
+          <p class="hero-sub">A collection of our favorite wedding moments</p>
+          <a class="scroll-cue" href="#highlights" aria-label="Scroll to highlights">
+            <span>Scroll</span>
+            <i></i>
+          </a>
+        </div>
+      </section>
+
+      <section class="highlights" id="highlights">
+        <header class="section-heading">
+          <p class="eyebrow">The celebration</p>
+          <h2>Highlights</h2>
+        </header>
+
+        <div class="carousel" data-carousel>
+          <button class="carousel-btn prev" type="button" aria-label="Previous photo">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15.5 4.5 8 12l7.5 7.5" />
+            </svg>
+          </button>
+
+          <figure class="carousel-stage">
+            <div class="carousel-fit" data-fit>
+              <img alt="" data-carousel-image />
+            </div>
+          </figure>
+
+          <button class="carousel-btn next" type="button" aria-label="Next photo">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M8.5 4.5 16 12l-7.5 7.5" />
+            </svg>
+          </button>
+
+          <div class="carousel-dots" data-carousel-dots></div>
+        </div>
+      </section>
+
+      <section class="people" id="people">
+        <header class="section-heading">
+          <p class="eyebrow">Loved ones</p>
+          <h2>People</h2>
+        </header>
+
+        <div class="people-layout">
+          <aside class="people-tab" aria-label="People">
+            <p class="tab-label">Guests</p>
+            <div class="name-list" data-people-list></div>
+          </aside>
+
+          <div class="people-gallery">
+            <div class="person-banner">
+              <h3 data-person-name>Anushka</h3>
+              <p data-person-count></p>
+            </div>
+            <div class="photo-grid" data-person-grid></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Ishita <span>&amp;</span> Ayush</p>
+    </footer>
+
+    <dialog class="lightbox" data-lightbox>
+      <button class="lightbox-close" type="button" aria-label="Close">Close</button>
+      <img alt="" data-lightbox-image />
+    </dialog>
+
+    <script src="js/photos-data.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
