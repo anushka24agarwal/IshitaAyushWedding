@@ -158,12 +158,24 @@ const people = [
         "caption": "Sangeet-30_websize"
       },
       {
+        "src": "photos/ayush/I&A Sangeet-43_websize.jpg",
+        "caption": "Sangeet-43_websize"
+      },
+      {
+        "src": "photos/ayush/I&A Wedding & Reception-21_websize.jpg",
+        "caption": "Wedding & Reception-21_websize"
+      },
+      {
         "src": "photos/ayush/I&A Wedding & Reception-27_websize.jpg",
         "caption": "Wedding & Reception-27_websize"
       },
       {
         "src": "photos/ayush/I&A Wedding & Reception-161_websize.jpg",
         "caption": "Wedding & Reception-161_websize"
+      },
+      {
+        "src": "photos/ayush/I&A Wedding & Reception-301_websize.jpg",
+        "caption": "Wedding & Reception-301_websize"
       },
       {
         "src": "photos/ayush/I&A Wedding & Reception-323_websize.jpg",
@@ -254,6 +266,10 @@ const people = [
       {
         "src": "photos/couple/I&A Wedding & Reception-333_websize.jpg",
         "caption": "Wedding & Reception-333_websize"
+      },
+      {
+        "src": "photos/couple/I&A Wedding & Reception-365_websize.jpg",
+        "caption": "Wedding & Reception-365_websize"
       },
       {
         "src": "photos/couple/I&A Wedding & Reception-370_websize.jpg",
@@ -360,6 +376,140 @@ const people = [
       {
         "src": "photos/decor/I&A Wedding & Reception-689_websize.jpg",
         "caption": "Wedding & Reception-689_websize"
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "name": "Family",
+    "photos": [
+      {
+        "src": "photos/family/I&A Bidai-9_websize.jpg",
+        "caption": "Bidai-9_websize"
+      },
+      {
+        "src": "photos/family/I&A Bidai-12_websize.jpg",
+        "caption": "Bidai-12_websize"
+      },
+      {
+        "src": "photos/family/I&A Bidai-116_websize.jpg",
+        "caption": "Bidai-116_websize"
+      },
+      {
+        "src": "photos/family/I&A Bidai-117_websize.jpg",
+        "caption": "Bidai-117_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-47_websize.jpg",
+        "caption": "Haldi-47_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-53_websize.jpg",
+        "caption": "Haldi-53_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-54_websize.jpg",
+        "caption": "Haldi-54_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-326_websize.jpg",
+        "caption": "Haldi-326_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-338_websize.jpg",
+        "caption": "Haldi-338_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-359_websize.jpg",
+        "caption": "Haldi-359_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-374_websize.jpg",
+        "caption": "Haldi-374_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-377_websize.jpg",
+        "caption": "Haldi-377_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-432_websize.jpg",
+        "caption": "Haldi-432_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-439_websize.jpg",
+        "caption": "Haldi-439_websize"
+      },
+      {
+        "src": "photos/family/I&A Haldi-534_websize.jpg",
+        "caption": "Haldi-534_websize"
+      },
+      {
+        "src": "photos/family/I&A Sangeet-7_websize.jpg",
+        "caption": "Sangeet-7_websize"
+      },
+      {
+        "src": "photos/family/I&A Sangeet-85_websize.jpg",
+        "caption": "Sangeet-85_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-69_websize.jpg",
+        "caption": "Wedding & Reception-69_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-72_websize.jpg",
+        "caption": "Wedding & Reception-72_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-79_websize.jpg",
+        "caption": "Wedding & Reception-79_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-109_websize.jpg",
+        "caption": "Wedding & Reception-109_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-113_websize.jpg",
+        "caption": "Wedding & Reception-113_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-270_websize.jpg",
+        "caption": "Wedding & Reception-270_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-312_websize.jpg",
+        "caption": "Wedding & Reception-312_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-383.jpg",
+        "caption": "Wedding & Reception"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-656_websize.jpg",
+        "caption": "Wedding & Reception-656_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-697_websize.jpg",
+        "caption": "Wedding & Reception-697_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-767_websize.jpg",
+        "caption": "Wedding & Reception-767_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-769_websize.jpg",
+        "caption": "Wedding & Reception-769_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-884_websize.jpg",
+        "caption": "Wedding & Reception-884_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-890_websize.jpg",
+        "caption": "Wedding & Reception-890_websize"
+      },
+      {
+        "src": "photos/family/I&A Wedding & Reception-892_websize.jpg",
+        "caption": "Wedding & Reception-892_websize"
       }
     ]
   },
@@ -522,6 +672,18 @@ const people = [
       {
         "src": "photos/sisters/I&A Haldi-382_websize.jpg",
         "caption": "Haldi-382_websize"
+      },
+      {
+        "src": "photos/sisters/I&A Sangeet-212_websize.jpg",
+        "caption": "Sangeet-212_websize"
+      },
+      {
+        "src": "photos/sisters/I&A Sangeet-293_websize.jpg",
+        "caption": "Sangeet-293_websize"
+      },
+      {
+        "src": "photos/sisters/I&A Sangeet-295.jpg",
+        "caption": "Sangeet"
       },
       {
         "src": "photos/sisters/I&A Wedding & Reception-88_websize.jpg",
